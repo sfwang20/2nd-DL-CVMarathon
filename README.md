@@ -10,7 +10,7 @@
 
 ### Part III - CNN應用案例學習 (Day23~41)
 
-了解Object Detection原理及其核心概念(如Region Proposal、IOU、Bounding Box Regression及NMS原理)
+了解Object Detection原理及其核心概念(如Region Proposal、IOU、Bounding Box Regression及NMS原理)　　
 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務
 
 ### Part IV - 電腦視覺深度學習實戰 (Day42~48)
