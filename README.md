@@ -21,3 +21,5 @@
 ### Part V - 期末專題 (Day49~50)
 
 使用YOLOv3建構浣熊與袋鼠之辨識模型
+
+![image](https://github.com/sfwang20/2nd-DL-CVMarathon/blob/master/img/result.png)
