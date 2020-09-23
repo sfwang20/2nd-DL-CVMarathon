@@ -4,9 +4,13 @@
 
 學習影像處理基礎，並熟悉 OpenCV 寫作方式以及如何前處理
 
+![image](https://github.com/sfwang20/2nd-DL-CVMarathon/blob/master/img/feautre_match.png)
+
 ### Part II - 電腦視覺深度學習基礎 (Day11~22)
 
 學習卷積神經網路的概念，並了解 CNN 各種代表性的經典模型
+
+![image](https://github.com/sfwang20/2nd-DL-CVMarathon/blob/master/img/InceptionV1.png)
 
 ### Part III - CNN應用案例學習 (Day23~41)
 
@@ -14,9 +18,13 @@
 
 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務
 
+![image](https://github.com/sfwang20/2nd-DL-CVMarathon/blob/master/img/yoloV1.png)
+
 ### Part IV - 電腦視覺深度學習實戰 (Day42~48)
 
 人臉關鍵點檢測及其應用、Mobilenet、Tensorflow Object Detection API使用方式
+
+![image](https://github.com/sfwang20/2nd-DL-CVMarathon/blob/master/img/face.png)
 
 ### Part V - 期末專題 (Day49~50)
 
